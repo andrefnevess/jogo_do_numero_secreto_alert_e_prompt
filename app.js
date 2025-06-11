@@ -1,5 +1,5 @@
 alert('Boas vindas ao jogo do número secreto!');
-let numeroMaximo = 15;
+let numeroMaximo = 10;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 // Math.random - Gerar um número entre 0 e 1;
 // parseInt() - Usada para converter uma string em um número inteiro.
